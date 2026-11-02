@@ -235,6 +235,20 @@ export default function HeroSection() {
                                 Uploadthing
                             </div>
                         </div>
+
+                    </div>
+                    <div className='mt-12 text-center flex items-center justify-center'>
+                        <a
+                            href="https://launchyourgem.com/products/nexflow?ref=badge"
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            <img
+                                src="https://launchyourgem.com/light-badge.png"
+                                alt="Featured on Launchyourgem"
+                                width="250"
+                            />
+                        </a>
                     </div>
                 </section>
             </main>
